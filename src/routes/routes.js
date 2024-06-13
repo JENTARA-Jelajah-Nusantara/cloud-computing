@@ -1,7 +1,8 @@
 const express = require('express');
-const router = express.Router();
-const routeHandler = require('../handlers/routeHandler');
+const { getOptimalRoute } = require('../handlers/routeHandler');
 
-router.post('/getOptimalRoute', routeHandler.getOptimalRoute);
+const router = express.Router();
+
+router.post('/optimal-route', getOptimalRoute);
 
 module.exports = router;
