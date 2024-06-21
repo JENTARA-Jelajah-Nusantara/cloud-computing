@@ -19,4 +19,4 @@
 2. Run using ```npm run dev``` or ```node src/app.js```.
 
 ## API Documentation
-https://documenter.getpostman.com/view/34832546/2sA3XS9LXj
+[JENTARA API Documentation](https://documenter.getpostman.com/view/34832546/2sA3XS9LXj)
