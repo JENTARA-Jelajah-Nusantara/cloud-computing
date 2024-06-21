@@ -1,7 +1,7 @@
 # cloud-computing
 
 ## API Description
--
+This API provides endpoints for user authentication, retrieving optimal routes, place details, place reviews, and searching places using Google Maps API. The authentication is managed through Firebase, and the application is built using Node.js with Express framework. The data is stored in Cloud Firestore and the application is deployed using Google Cloud Run.
 
 ## Setup
 1. Install dependencies:
